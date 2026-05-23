@@ -1,4 +1,5 @@
-<img width="1285" height="1022" alt="Screenshot 2026-05-22 230106" src="https://github.com/user-attachments/assets/17fcdb32-567b-4613-a3fb-f02ca724eb4b" />
+<img width="362" height="55" alt="grafik" src="https://github.com/user-attachments/assets/8ff9cbbe-d0a3-4cd7-8272-04e09b8eb2b5" />
+
 # Xeno-Hub
 -Webseite-   
 
